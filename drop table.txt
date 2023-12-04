@@ -1,0 +1,10 @@
+drop table PORDER;
+drop table PAYMENT;
+drop table FAVORITE;
+drop table HAS;
+drop table CONTAIN;
+drop table client;
+drop table STORE;
+drop table PRODUCT;
+drop table EVENT;
+drop table OWNER;
